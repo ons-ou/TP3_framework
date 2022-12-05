@@ -1,0 +1,27 @@
+﻿@model Person
+
+
+@using (Html.BeginForm("Search", "Person", FormMethod.Post))
+{
+<div class="container">
+    <form>
+        <div class="form-group">
+            <label>Enter Name: </label>
+            @Html.TextBoxFor(model => model.first_name, new
+           {
+               htmlAttributes =
+                     new { @class = "form-control" }
+           })
+        </div>
+        <div class="form-group">
+            <label>Enter Country: </label>
+            @Html.TextBoxFor(model => model.country, new
+           {
+               htmlAttributes =
+                     new { @class = "form-control" }
+           })
+        </div>
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </form>
+</div>
+}

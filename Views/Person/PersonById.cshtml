@@ -1,0 +1,29 @@
+﻿@model Person
+
+<div class="container">
+    @if (Model == null)
+    {
+        <h1>
+            Cet id est invalide
+        </h1>
+    }
+    else
+    {
+<div class="row">
+    <div class="col-5">
+        <img src="@Model.image" />
+    </div>
+    <div class="col-6">
+        <h3>id: </h3> @Model.id
+        <h3>First Name: </h3> @Model.first_name
+        <h3>Last Name: </h3> @Model.last_name
+        <h3>Country: </h3> @Model.country
+        <h3>Email: </h3> @Model.email
+        <h3>Date of Birth: </h3> @Model.date_birth
+    </div>
+</div>
+            }
+
+
+
+        </div>

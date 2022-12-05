@@ -1,0 +1,62 @@
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.exe
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.deps.json
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.runtimeconfig.json
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.runtimeconfig.dev.json
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.pdb
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.Views.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\TP 3.Views.pdb
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.csproj.AssemblyReference.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.AssemblyInfoInputs.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.AssemblyInfo.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.csproj.CoreCompileInputs.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.MvcApplicationPartsAssemblyInfo.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.RazorAssemblyInfo.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.RazorAssemblyInfo.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\staticwebassets\TP 3.StaticWebAssets.Manifest.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\staticwebassets\TP 3.StaticWebAssets.xml
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\TP 3.styles.css
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.TagHelpers.input.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.TagHelpers.output.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.RazorCoreGenerate.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.RazorTargetAssemblyInfo.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.RazorTargetAssemblyInfo.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.Views.pdb
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.csproj.CopyComplete
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.dll
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.pdb
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\TP 3.genruntimeconfig.cache
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Person\All.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Person\PersonById.cshtml.g.cs
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsqlite3.so
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\gl3\framework\Project\TP 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gl3\framework\Project\TP 3\obj\Debug\netcoreapp3.1\Razor\Views\Person\Search.cshtml.g.cs

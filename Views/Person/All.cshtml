@@ -1,0 +1,44 @@
+﻿@model List<Person>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Email</th>
+            <th scope="col">Country</th>
+            <th scope="auto">Date of birth</th>
+            <th scope="col">Image</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+        <tr>
+            <th scope="row">
+                @p.id
+            </th>
+            <td>
+                @p.first_name
+            </td>
+            <td>
+                @p.last_name
+            </td>
+            <td>
+                @p.email
+            </td>
+            <td>
+                @p.country
+            </td>
+            <td>
+                @p.date_birth
+            </td>
+            <td>
+                <img src="@p.image" />
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+
